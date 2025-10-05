@@ -5,7 +5,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 $response = array('success' => false, 'message' => '');
 
 // Force admin email to be your email regardless of form input
-$admin_email = 'mahmoud.shahahdi98@icloud.com';
+$admin_email = 'm.alramamneh@gmail.com';
 
 //Script Foreach
 $c = true;
